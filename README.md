@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryasai22
 - 👀 I’m interested in coding!!
-- 🌱 I’m currently learning Java and have good knowledge on Python
+- 🌱 I have good knowledge on Python and Java
 - 📫 How to reach me aryasai22@gmail.com
 
 <!---
